@@ -1,6 +1,6 @@
 # Metrobi Challenge
 
-This repo contains the answers for the six questions of the js challenge.
+This repo contains the answers for the seven questions of the js challenge.
 
 
 ## Project Setup
